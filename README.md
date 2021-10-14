@@ -1,1 +1,1 @@
-- Olá! Me chamo Maria Rikele, sou estudante do curso de Ciência da Computação e moro na cidade de Girau do Ponciano.
+- Olá! Me chamo Maria Rikele, sou estudante do curso de Ciência da Computação e sou da cidade de Girau do Ponciano.
